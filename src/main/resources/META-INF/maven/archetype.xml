@@ -1,0 +1,10 @@
+<archetype>
+	<id>action-pack-archetype</id>
+	<sources>
+		<source>src/main/java/CustomAction.java</source>
+		<source>src/main/java/CustomActionPack.java</source>
+	</sources>
+	<testSources>
+		<source>src/test/java/CustomActionTest.java</source>
+	</testSources>
+</archetype>
