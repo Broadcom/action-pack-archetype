@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.broadcom</groupId>
 	<artifactId>action-pack-archetype</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Action Pack Maven Archetype</name>
 	<description>This project template enables Action Pack development for Automic Automation (AA and CDA) in Java.</description>
 	<url>https://github.com/Broadcom/action-pack-archetype</url>
@@ -26,7 +25,7 @@
 		<connection>scm:git:git://github.com/Broadcom/action-pack-archetype.git</connection>
 		<developerConnection>scm:git:git@github.com:Broadcom/action-pack-archetype.git</developerConnection>
 		<url>https://github.com/Broadcom/action-pack-archetype</url>
-		<tag>HEAD</tag>
+		<tag>v0.0.1</tag>
 	</scm>
 	<developers>
 		<developer>
