@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.broadcom</groupId>
 	<artifactId>action-pack-archetype</artifactId>
-	<version>0.0.7</version>
+	<version>0.0.8-SNAPSHOT</version>
 	<name>Action Pack Maven Archetype</name>
 	<packaging>maven-archetype</packaging>
 	<description>This project template enables Action Pack development for Automic Automation (AA and CDA) in Java.</description>
@@ -26,7 +26,7 @@
 		<connection>scm:git:git://github.com/Broadcom/action-pack-archetype.git</connection>
 		<developerConnection>scm:git:git@github.com:Broadcom/action-pack-archetype.git</developerConnection>
 		<url>https://github.com/Broadcom/action-pack-archetype</url>
-		<tag>v0.0.7</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<developers>
 		<developer>
